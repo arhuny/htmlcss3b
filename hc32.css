@@ -1,0 +1,36 @@
+body {
+    font-family: 'Lato', sans-serif;
+}
+
+.a {
+    margin: auto;
+    padding-left: 5%;
+    padding-right: 5%;
+}
+
+
+.b {
+    width: 1400px;
+    margin: auto;
+}
+
+.c {
+    width: auto;
+    margin-top: 10%;
+    display: flex;
+    flex-wrap: wrap;
+}
+
+
+.a1 {
+    width: 25%;
+    padding: auto;
+    margin-top: 5%;
+    margin-right: 3%;
+    margin-left: 3%;
+    margin-bottom: 5%;
+    border: 1px;
+    border-style: solid;
+    border-color: black;
+    border-radius: 5%;
+}
